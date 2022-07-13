@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MSZEGHDAR
-- 👀 I’m interested in consciousness
-- 🌱 I’m currently learning python
 - 📫 How to reach me mszeghdar@gmail.com
 
 <!---
